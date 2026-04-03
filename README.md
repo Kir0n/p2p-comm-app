@@ -21,7 +21,7 @@ p2p-comm-app
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/p2p-comm-app.git
+   git clone https://github.com/Kir0n/p2p-comm-app.git
    cd p2p-comm-app
    ```
 

@@ -4,8 +4,8 @@
   "description": "A peer-to-peer communication application using TypeScript.",
   "main": "src/server.ts",
   "scripts": {
-    "start": "ts-node src/server.ts",
-    "client": "ts-node src/client.ts"
+    "start-server": "ts-node src/server.ts",
+    "start-client": "ts-node src/client.ts"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/p2p-comm-app.git"
+    "url": "https://github.com/Kir0n/p2p-comm-app.git"
   },
   "keywords": [
     "p2p",
     "communication",
     "typescript"
   ],
-  "author": "Your Name",
+  "author": "Kir0n",
   "license": "MIT"
 }
